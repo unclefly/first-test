@@ -1,4 +1,6 @@
 first-test
 ==========
 
-hello world!
+<?php
+ echo "hello world!";
+?>
